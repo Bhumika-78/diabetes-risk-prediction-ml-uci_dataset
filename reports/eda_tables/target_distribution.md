@@ -1,0 +1,8 @@
+# Target Distribution: Class Imbalance & Prevalence
+
+| Dataset_Version      | Total_Records | Class    | Count | Percentage | Imbalance_Ratio |
+| -------------------- | ------------- | -------- | ----- | ---------- | --------------- |
+| Raw Dataset          | 520           | Positive | 320   | 61.54      | 1.6:1           |
+| Raw Dataset          | 520           | Negative | 200   | 38.46      | 1:1.6           |
+| Deduplicated Dataset | 251           | Positive | 173   | 68.92      | 2.22:1          |
+| Deduplicated Dataset | 251           | Negative | 78    | 31.08      | 1:2.22          |

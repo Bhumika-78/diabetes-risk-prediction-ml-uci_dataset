@@ -1,0 +1,3 @@
+Feature,Count,Mean,Std_Dev,Min,Q1_25%,Median_50%,Q3_75%,Max,IQR,Skewness,Kurtosis,Tukey_Lower_Bound,Tukey_Upper_Bound,Outlier_Count,Outlier_Percentage
+Age (Years),520,48.03,12.15,16,39.0,47.5,57.0,90,18.0,0.329,-0.192,12.0,84.0,4,0.77
+Total Symptoms Count,520,5.58,3.17,0,3.0,6.0,8.0,13,5.0,-0.211,-0.894,-4.5,15.5,0,0.0

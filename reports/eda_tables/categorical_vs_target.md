@@ -1,0 +1,34 @@
+# Categorical Features vs. Diabetes Positivity Rate
+
+| Feature            | Category | Total_Patients | Positive_Count | Positive_Rate_Pct | Negative_Count | Negative_Rate_Pct |
+| ------------------ | -------- | -------------- | -------------- | ----------------- | -------------- | ----------------- |
+| Gender             | Female   | 192            | 173            | 90.10             | 19             | 9.90              |
+| Gender             | Male     | 328            | 147            | 44.82             | 181            | 55.18             |
+| Polyuria           | No       | 262            | 77             | 29.39             | 185            | 70.61             |
+| Polyuria           | Yes      | 258            | 243            | 94.19             | 15             | 5.81              |
+| Polydipsia         | No       | 287            | 95             | 33.10             | 192            | 66.90             |
+| Polydipsia         | Yes      | 233            | 225            | 96.57             | 8              | 3.43              |
+| sudden weight loss | No       | 303            | 132            | 43.56             | 171            | 56.44             |
+| sudden weight loss | Yes      | 217            | 188            | 86.64             | 29             | 13.36             |
+| weakness           | No       | 215            | 102            | 47.44             | 113            | 52.56             |
+| weakness           | Yes      | 305            | 218            | 71.48             | 87             | 28.52             |
+| Polyphagia         | No       | 283            | 131            | 46.29             | 152            | 53.71             |
+| Polyphagia         | Yes      | 237            | 189            | 79.75             | 48             | 20.25             |
+| Genital thrush     | No       | 404            | 237            | 58.66             | 167            | 41.34             |
+| Genital thrush     | Yes      | 116            | 83             | 71.55             | 33             | 28.45             |
+| visual blurring    | No       | 287            | 145            | 50.52             | 142            | 49.48             |
+| visual blurring    | Yes      | 233            | 175            | 75.11             | 58             | 24.89             |
+| Itching            | No       | 267            | 166            | 62.17             | 101            | 37.83             |
+| Itching            | Yes      | 253            | 154            | 60.87             | 99             | 39.13             |
+| Irritability       | No       | 394            | 210            | 53.30             | 184            | 46.70             |
+| Irritability       | Yes      | 126            | 110            | 87.30             | 16             | 12.70             |
+| delayed healing    | No       | 281            | 167            | 59.43             | 114            | 40.57             |
+| delayed healing    | Yes      | 239            | 153            | 64.02             | 86             | 35.98             |
+| partial paresis    | No       | 296            | 128            | 43.24             | 168            | 56.76             |
+| partial paresis    | Yes      | 224            | 192            | 85.71             | 32             | 14.29             |
+| muscle stiffness   | No       | 325            | 185            | 56.92             | 140            | 43.08             |
+| muscle stiffness   | Yes      | 195            | 135            | 69.23             | 60             | 30.77             |
+| Alopecia           | No       | 341            | 242            | 70.97             | 99             | 29.03             |
+| Alopecia           | Yes      | 179            | 78             | 43.58             | 101            | 56.42             |
+| Obesity            | No       | 432            | 259            | 59.95             | 173            | 40.05             |
+| Obesity            | Yes      | 88             | 61             | 69.32             | 27             | 30.68             |
